@@ -8,7 +8,7 @@
           timeZone: "",
           endtimeYear: 0,
           endtimeMonth: 0,
-          endtimeDate: 0,
+          endtimeDate: 40,
           endtimeHours: 0,
           endtimeMinutes: 0,
           endtimeSeconds: 0,
